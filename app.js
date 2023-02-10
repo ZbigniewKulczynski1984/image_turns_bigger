@@ -18,3 +18,4 @@ const removeImg = () => {
 
 img.addEventListener('mousemove', zoomImg);
 img.addEventListener('mouseout', removeImg);
+
