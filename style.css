@@ -17,7 +17,6 @@ body {
 	overflow: hidden;
 }
 
-.zoom-img {
+img {
 	cursor: zoom-in;
-	transform: scale(2);
 }
